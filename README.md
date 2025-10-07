@@ -77,7 +77,7 @@ Shows process from student login → slot booking → washing → delivery → O
 
 ##  Demo Video
 
- [Watch Demo Here](./assets/demo/laundry_demo.mp4)
+ [Watch Demo Here](./assets/demo/laundry-demo.mp4)
 
 ---
 

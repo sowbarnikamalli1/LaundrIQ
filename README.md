@@ -77,7 +77,8 @@ Shows process from student login → slot booking → washing → delivery → O
 
 ##  Demo Video
 
- [Watch Demo Here](assets/demo/demo.html)
+[▶ Watch Demo Here](https://sowbarnikamalli1.github.io/LaundrIQ/assets/demo/demo.html)
+
 
 ---
 

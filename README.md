@@ -56,7 +56,7 @@ We built a *Smart Laundry Management System* with:
 ##  Tech Stack
 
 
-Frontend: React.js + Tailwind CSS  
+Frontend: React.js + Tailwind CSS + TypeScript
 Backend: Firebase  
 Database: MongoDB  
 Authentication: Firebase Auth  
